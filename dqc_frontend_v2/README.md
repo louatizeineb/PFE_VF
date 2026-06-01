@@ -9,7 +9,7 @@ The interface has two workspaces:
 
 This project is currently intended for local demonstration and iterative development. Authentication and role management are deliberately out of scope for now.
 
-![Highlighted TSGCODE lineage](docs/images/tsgcode-highlighted-lineage.png)
+![Highlighted TSGCODE lineage](./tsgcode-highlighted-lineage.png)
 
 ## Quick Start
 
