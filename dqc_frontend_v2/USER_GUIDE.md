@@ -8,7 +8,7 @@ The interface loads the story progressively. A click reveals one new lineage hop
 
 ## Reference Screenshot
 
-![Highlighted end-to-end TSGCODE lineage](images/tsgcode-highlighted-lineage.png)
+![Highlighted end-to-end TSGCODE lineage](./tsgcode-highlighted-lineage.png)
 
 The orange highlight shows the visible lineage branch starting from the selected `TSGCODE` field. The screenshot includes:
 
